@@ -1,5 +1,4 @@
 //Sequence Detector: Verilog (Mealy FSM)
-
 module seq3_detect_mealy(x,clk, y);
 
 // Mealy machine for a three-1s sequence detection
