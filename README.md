@@ -1,0 +1,1 @@
+This repository provides a simple example of implementing a Mealy Finite State Machine (FSM) in Verilog HDL. A Mealy FSM is a type of FSM where the output is determined by both the current state and the current input
