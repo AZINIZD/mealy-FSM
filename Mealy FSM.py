@@ -49,7 +49,6 @@ class MealyFSM:
         """Return the current output."""
         return self.y
 
-
 # Example usage
 if __name__ == "__main__":
     fsm = MealyFSM()
