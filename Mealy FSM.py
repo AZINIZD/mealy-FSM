@@ -55,7 +55,6 @@ if __name__ == "__main__":
     fsm = MealyFSM()
     inputs = [1, 1, 1, 0, 1, 1, 1]  # Example input sequence
     outputs = []
-
     for x in inputs:
         fsm.clock_tick(x)  # Simulate clock tick with input x
         outputs.append(fsm.get_output())  # Collect output
